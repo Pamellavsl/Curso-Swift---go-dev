@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "pequeno_principe.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

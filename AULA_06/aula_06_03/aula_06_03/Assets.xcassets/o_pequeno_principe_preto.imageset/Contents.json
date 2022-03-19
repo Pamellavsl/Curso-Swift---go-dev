@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "o_pequeno_principe_preto.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
