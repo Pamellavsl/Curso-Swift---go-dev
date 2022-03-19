@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "depois_dos_quinze.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
